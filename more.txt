@@ -1,0 +1,1 @@
+more - display the contents of a file in a terminal. more is a filter for paging through text one screenful at a time. This version is especially primitive. Users should realize that less provides more emulation plus extensive enhancements.
