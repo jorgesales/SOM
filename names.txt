@@ -1,7 +1,7 @@
-Name    Age     Gender  City            Occupation      Salary
-Alice   28      Female  New York        Engineer        75000
-Bob     35      Male    Los Angeles     Doctor          100000
-Charlie 22      Male    Chicago         Student         0
-David   40      Male    San Francisco   Manager         90000
-Eva     30      Female  Miami           Lawyer          85000
-Frank   45      Male    Seattle         Developer       110000
+Name Age Gender City Occupation Salary
+Alice 28 Female New York Engineer 75000
+Bob 35 Male Los Angeles Doctor 100000
+Charlie 22 Male Chicago Student 0
+David 40 Male San Francisco Manager 90000
+Eva 30 Female Miami Lawyer 85000
+Frank 45 Male Seattle Developer 110000
