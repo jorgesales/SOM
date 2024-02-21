@@ -1,0 +1,11 @@
+ID   Nombre    Apellido    Edad   Ciudad     Profesion
+1    Juan      Perez       25     Alcora     Ingeniero
+2    Maria     Gomez       30     Vila-real  Médico
+3    Carlos    Rodriguez   28     Castelló   Abogado
+4    Laura     Martinez    22     Alcora     Estudiante
+5    Roberto   Sanchez     35     Vila-real  Profesor
+6    Ana       Fernandez   29     Castelló   Arquitecto
+7    Javier    Lopez       32     Alcora     Contador
+8    Sofia     Ramirez     27     Vila-real  Diseñador
+9    Pablo     Torres      31     Castelló   Periodista
+10   Carmen    Herrera     26     Alcora     Psicólogo
