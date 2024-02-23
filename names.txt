@@ -1,4 +1,4 @@
-NameAge	Gender	City	Occupation	Salary
+Name	Age	Gender	City	Occupation	Salary
 Alice	28	Female	New	York	Engineer	75000
 Bob	35	Male	Los	Angeles	Doctor	100000
 Charlie	22	Male	Chicago	Student	0
