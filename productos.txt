@@ -1,0 +1,11 @@
+ID    Descripción                                 Precio    Cantidad
+04     Dell XPS 13 Laptop                          1299€     30
+07     Bose QuietComfort 45 Wireless Headphones    329€      60
+09     LEGO Star Wars Millennium Falcon            799€      40
+06     Canon EOS R5 Mirrorless Camera              3899€     20
+01     Apple iPhone 13 Pro Max                     1099€     50
+03     Sony WH-1000XM4 Wireless Headphones         349€      100
+10     Amazon Echo Dot (4th Gen)                   59€       150
+02     Samsung Galaxy S21 Ultra                    1199€     45
+05     Nintendo Switch                             299€      75
+08     Samsung 49-Inch Odyssey G9 Gaming Monitor   1499€     25
